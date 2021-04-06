@@ -1,0 +1,22 @@
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\bin\Debug\Login Form PBKK.exe.config
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\bin\Debug\Login Form PBKK.exe
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\bin\Debug\Login Form PBKK.pdb
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\bin\Debug\MaterialDesignColors.dll
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\App.g.cs
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\Login Form PBKK_MarkupCompile.cache
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\Login Form PBKK_MarkupCompile.lref
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\App.baml
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\MainWindow.baml
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\Login Form PBKK.g.resources
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\Login_Form_PBKK.Properties.Resources.resources
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\Login Form PBKK.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\Login Form PBKK.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\Login Form PBKK.csproj.CopyComplete
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\Login Form PBKK.exe
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\Login Form PBKK.pdb
+C:\Users\Asus\source\repos\Login Form PBKK\Login Form PBKK\obj\Debug\Login Form PBKK.csprojAssemblyReference.cache
